@@ -2,7 +2,7 @@
 This is Jarvis Voice Assistant in Python
 
 For Run this you have to install the External modules in Python:-
-1-pip install speechRecognition
+1-pip install speechRecognition<br>
 2-pip install pyttsx3
 3-pip install wikipedia
 
